@@ -1,0 +1,6 @@
+StartPoint,ATM 1,5
+StartPoint,ATM 2,10
+StartPoint,ATM 3,15
+ATM 1,ATM 2,25
+ATM 1,ATM 3,15
+ATM 2,ATM 3,20
